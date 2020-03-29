@@ -2,7 +2,7 @@
 
  /** 
  * 
- * Code example; for more informatio see:
+ * Code example; for more information see:
  * https://oneguyoneblog.com/2020/03/19/covid-19-corona-get-data-with-php/
  * 
  * 
